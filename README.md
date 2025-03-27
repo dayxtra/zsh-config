@@ -83,3 +83,9 @@ alias k="kubectl"
 # Terraform aliases
 alias tf="terraform"
 ```
+
+## Fonts
+```bash
+# Look for Code New Roman Nerd Font Complete Mono
+https://www.nerdfonts.com/font-downloads
+```
